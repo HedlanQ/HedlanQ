@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HedlanQ and I'm still a newbie
+- 👋 Hi, I’m @Kujs and I'm still a newbie
 - 👀 I’m interested in Computers and Softwares
 - 🌱 I’m currently learning Python, HTML, CSS, C++, and C#.
 
